@@ -24,20 +24,19 @@ interests:
 organizations:
 - name: University of Miami
   url: "https://politicalscience.as.miami.edu/"
-role: Assistant Professor at the Department of Political Science
+role: Assistant Professor in the Department of Political Science
+
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: "mailto:namhoonki@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/NamhoonKi
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=Q6m0MMYAAAAJ&hl=en&oi=sra
+
 superuser: true
 title: Namhoon Ki
 user_groups:
