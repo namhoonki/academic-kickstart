@@ -1,28 +1,30 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include local government, public management, governance, and network modeling.
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Public Administration
+    institution: Florida State University
+    year: 2019
+  - course: MA in Public Administration
+    institution: Korea University, Seoul, South Korea
+    year: 2013
+  - course: BA in Public Administration
+    institution: Korea University, Seoul, South Korea
+    year: 2010
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Local Government and Governance
+- Public Management
+- Network Modeling
+
+
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: University of Miami
+  url: "https://politicalscience.as.miami.edu/"
+role: Assistant Professor at the Department of Political Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,12 +39,10 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Namhoon Ki
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Namhoon Ki is joining the Department of Political Science at the University of Miami as an Assistant professor (2020 Aug). His research interests include Local Government, Inter-government Collaboration, Public Management, and Network Analysis.
