@@ -17,9 +17,9 @@ weight = 10
   weight = 20
 
 # [[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 30
+# name = "Courses"
+# url = "courses/"
+# weight = 30
 
 
 
