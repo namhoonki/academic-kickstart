@@ -16,10 +16,10 @@ weight = 10
  url = "#publications"
   weight = 20
 
-[[main]]
-name = "Courses"
-url = "courses/"
-weight = 30
+# [[main]]
+# name = "Courses"
+# url = "courses/"
+# weight = 30
 
 
 

@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: University of Miami
   url: "https://politicalscience.as.miami.edu/"
-role: Assistant Professor in the Department of Political Science (joining Aug 2020)
+role: Assistant Professor<br/>Department of Political Science (joining Aug 2020)
 
 social:
 - icon: envelope

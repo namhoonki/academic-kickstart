@@ -2,21 +2,19 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-# linktitle: An Example Course
+linktitle: An Example Course
 menu:
   example:
     name: Overview
     weight: 1
-summary:  
-PAD 6109 - Institutions and Society, Spring 2020
-
-sdfads
-title: Courses taught 
-toc: false
+summary: Learn how to use Academic's docs layout for publishing online courses, software
+  documentation, and tutorials.
+title: Overview
+toc: true
 type: docs
 weight: 1
 ---
-# 
+
 ## Flexibility
 
 This feature can be used for publishing content such as:
