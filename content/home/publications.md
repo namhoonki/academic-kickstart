@@ -3,8 +3,7 @@
 # This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-<<<<<< HEAD
+headless = true  # This file represents a page section.<<<<<< HEAD
 active = true # Activate this widget? true/false
 =======
 active = true  # Activate this widget? true/false
