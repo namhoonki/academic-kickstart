@@ -1,16 +1,15 @@
 ---
 date: "2018-09-09T00:00:00Z"
-draft: false
+draft: False
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+linktitle: Teaching Experience
 menu:
   example:
     name: Overview
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
+summary: POL 510/610 Statistics for Politics and Public Administration (Teaching in Fall 2020); POL 522/622 Introduction to Graduate Public Administration (Teaching in Fall 2020); PAD 6109 Institutions and Society (Spring 2020); PAD 5935 Governing Sustainable Communities (Fall 2019); PAD 3003 Public Administration in American Society (Fall 2017 & Spring 2018)
 title: Overview
-toc: true
+toc: false
 type: docs
 weight: 1
 ---
