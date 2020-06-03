@@ -11,10 +11,10 @@ name = "CV"
 url = "files/cv.pdf"
 weight = 10
 
-# [[main]]
-#  name = "Journal Articles"
-#  url = "#publications"
-#  weight = 20
+[[main]]
+ name = "Journal Articles"
+ url = "#publications"
+  weight = 20
 
 # [[main]]
 #  name = "Courses"

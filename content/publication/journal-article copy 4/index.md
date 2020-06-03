@@ -1,13 +1,13 @@
 ---
 authors:
-- admin
-- Chang-Gyu Kwak
-- and Minsun Song
-doi: ""
-publication: 
-publication_short: "_Public Administration Review, 80_(1) 23-35"
-publishDate: "2020-01-01T00:00:00Z"
-title: Strength of Strong Tie in Inter-City Government Information Sharing and County Jurisdictional Boundary
+- Namhoon Ki and Jongsun Park
+
+doi: "http://dx.doi.org/10.21888/KPAQ.2019.6.31.2.343"
+publication: _Korean Administration Quarterly, 31_(2) 343-361
+publication_short: ""
+publishDate: "2019-01-01T00:00:00Z"
+title: Defection Vulnerability of Services and Inter-Governmental Agreement for Public Service Delivery
+abstract:Transaction cost approach explains that the government’s external service production mechanism is determined by two characteristics of goods and services: asset specificity and measurability. Previous studies have treated each transaction cost characteristic as distinctive determining factors for dependency and defection risks, which eventually affect governments’ preferences of public service production mechanism between external and internal productions. However, this study argues that both measures can better capture the nature of transaction risks government should run when those are combined. For doing so, this study reframes the previous argument on the relationship between transaction cost characteristics of services and respective dependency and defection risks with a single defection vulnerability(DFV) concept. The empirical results of this study demonstrate that DFV can provide a better measure for transaction risks governments would run in choosing the service production mechanism, and thus support the theoretical argument of this study.
 ---
 
 

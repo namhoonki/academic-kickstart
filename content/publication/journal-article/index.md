@@ -2,8 +2,9 @@
 authors:
 - admin
 - Chang-Gyu Kwak
-- and, Minsun Song
+- and Minsun Song
 doi: https://doi.org/10.1111/puar.13135
+weight: 1
 projects: []
 publication: _Public Administration Review, 80_(1) 23-35
 publication_short: ""
