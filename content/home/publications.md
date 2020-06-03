@@ -5,7 +5,6 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
->>>>>>> 43db4a24aee8abcda188854296e125d4a493f10d
 weight = 90  # Order that this section will appear.
 
 title = "Journal Articles"
