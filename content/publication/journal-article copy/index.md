@@ -1,15 +1,15 @@
 ---
 authors:
 - admin
-- Chang-Gyu Kwak
-- and, Minsun Song
-doi: "https://doi.org/10.1111/puar.13135"
+doi: "http://dx.doi.org/10.1080/14719037.2019.1708437"
+
+
 projects: []
-publication: _Public Administration Review, 80_(1) 23-35
-publication_short: ""
+publication:  _Public Management Review_
+publication_short: "_(forthcoming)_"
 publishDate: "2020-01-01T00:00:00Z"
-title: Strength of Strong Tie in Inter-City Government Information Sharing and County Jurisdictional Boundary
-abstract: Studies have found that information sharing between city governments can be easily observed within the same county jurisdiction, but less attention has been paid to the reasons why the jurisdictional boundary matters. This article fills this lacuna, drawing on the insight of the “strength of strong ties” argument that “people help their friends first.” The analysis reveals that city governments in the Orlando, Florida, metropolitan area are more likely to share economic development information (EDI) with governments in the same county as the collective demand for such information in that area increases. This study additionally finds that the greater the demand for EDI, the more likely it is that city governments will seek the information from their county members. As a result, as the demand for information increases among city governments in a metropolitan area, the likelihood that it will be shared by all members of the area beyond the county boundaries decreases .
+title: Public Service Motivation and Local Government Officials’ Willingness to Learn in Public Sector Benchmarking Process
+abstract: Benchmarking between local governments has become an important topic in public administration. In benchmarking practice, local government officials play important roles in deciding what they learn, who they learn from, and how to adopt, and adapt to the lessons. However, less attention has been paid to why local government officials to willingly take lessons from their peer governments. Focusing on a particular type of motivational basis, public service motivation (PSM), this study found that PSM is positively associated with government official’s willingness to learn. Out of PSM’s subdimensions, in particular, only attraction to public policy-making shows a significant positive relationship.
 
 # featured: false
 # links:
