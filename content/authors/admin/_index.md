@@ -16,8 +16,10 @@ education:
     year: 2010
 email: ""
 interests:
-- Local Government and Governance
+- Local Government
 - Public Management
+- Collaborative Governance
+- Fiscal Decentralization and Social Equity
 - Network Modeling
 
 
