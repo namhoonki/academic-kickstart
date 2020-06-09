@@ -21,7 +21,6 @@ interests:
 - Collaborative Governance
 - Fiscal Decentralization and Social Equity
 - Network Modeling
-- Cooking Korean Food (e.g., Bulgogi, Bibimbap, Budae Jjigae, etc.)
 
 
 organizations:
