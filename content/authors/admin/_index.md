@@ -32,12 +32,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:namhoonki@gmail.com"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/NamhoonKi
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Q6m0MMYAAAAJ&hl=en&oi=sra
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Namhoon_Ki?ev=hdr_xprf&_sg=FLn3tvUyLGIA63phxesNbR8NVSDoD-v3cTY3cgthC7fZFSvHQbCrP0QZ4xRaw0p9jwwDRamjZ13zdxY3IuFQ2lCY
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/NamhoonKi
 
 superuser: true
 title: Namhoon Ki
