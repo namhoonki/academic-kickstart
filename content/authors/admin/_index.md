@@ -19,7 +19,7 @@ interests:
 - Local Government
 - Public Management
 - Collaborative Governance
-- Fiscal Decentralization and Social Equity
+- Fiscal Decentralization and Social Equality
 - Network Modeling
 
 
