@@ -26,7 +26,7 @@ interests:
 organizations:
 - name: University of Miami
   url: "https://politicalscience.as.miami.edu/"
-role: Assistant Professor<br/>Department of Political Science (joining Aug 2020)
+role: Assistant Professor<br/>Department of Political Science
 
 social:
 - icon: envelope
@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-Namhoon Ki will be joining the Department of Political Science at the University of Miami as an Assistant professor (Aug, 2020). His research interests include Local Government, Inter-governmental Collaboration, Public Management, Fiscal Decentralization, and Network Analysis.
+Namhoon Ki is assistant professor in the Department of Political Science at the University of Miami. His research interests include Local Government, Inter-governmental Collaboration, Public Management, Fiscal Decentralization, and Network Analysis.
