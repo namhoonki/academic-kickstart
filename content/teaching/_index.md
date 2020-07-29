@@ -1,7 +1,8 @@
 ---
-title = "Courses Taught" 
-date = "2017-01-01T00:00:00Z" 
+header:
+  caption: ""
+title: "Courses Taught" 
 math = false 
 highlight = false
+view: 10
 ---
-
