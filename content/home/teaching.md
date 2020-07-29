@@ -14,7 +14,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Fall 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -42,7 +42,7 @@ date_format = "Fall 2006"
   company_url = "https://coss.fsu.edu/askew/home"
   location = "Tallahassee, Florida"
   date_start = "2017-09-01"
-  date_end = "2020-04-29"
+  date_end = "2020-01-29"
   description = """
   
  Courses Taught:
