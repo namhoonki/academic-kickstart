@@ -45,7 +45,7 @@ date_format = "Fall 2006"
   date_end = "2020-04-29"
   description = """
   
-    Courses Taught:
+ Courses Taught:
   
   * PAD 6109: Institution and Society (graduate), Spring 2020
   * PAD 5935: Governing Sustainable Communities (graduate), Fall 2019 (Co-Teaching)
