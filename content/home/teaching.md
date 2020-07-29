@@ -31,8 +31,8 @@ date_format = "Fall 2006"
   description = """
   Courses Taught:
   
-  * POL 510/610: Statistics for Politics and Public Administration, Fall 2020
-  * POL 522/622: Introduction to Graduate Public Administration, Fall 2020
+  * POL 510/610: Statistics for Politics and Public Administration (graduate), Fall 2020
+  * POL 522/622: Introduction to Graduate Public Administration (graduate), Fall 2020
 
   """
 
@@ -47,9 +47,9 @@ date_format = "Fall 2006"
   
     Courses Taught:
   
-  * PAD 6109: Institution and Society, Spring 2020
-  * PAD 5935: Governing Sustainable Communities, Fall 2019 (Co-Teaching)
-  * PAD 3003: Public Administration in American Society (undergraduate level), Fall 2017 & Spring 2018
+  * PAD 6109: Institution and Society (graduate), Spring 2020
+  * PAD 5935: Governing Sustainable Communities (graduate), Fall 2019 (Co-Teaching)
+  * PAD 3003: Public Administration in American Society (undergraduate), Fall 2017 & Spring 2018
 """
 
 

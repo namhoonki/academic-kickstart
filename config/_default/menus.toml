@@ -17,13 +17,8 @@ weight = 10
   weight = 20
 
  [[main]]
- name = "Courses"
- url = "courses/"
- weight = 30
-
- [[main]]
  name = "Courses Taught"
  url = "#teaching"
- weight = 40
+ weight = 30
 
 
