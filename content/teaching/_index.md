@@ -1,8 +1,8 @@
 ---
 header:
   caption: ""
+  image: ""
 title: "Courses Taught" 
-math = false 
-highlight = false
 view: 10
 ---
+
