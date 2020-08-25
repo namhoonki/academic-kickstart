@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-Namhoon Ki is assistant professor in the Department of Political Science at the University of Miami. His research interests include Local Government, Inter-governmental Collaboration, Public Management, Fiscal Decentralization, and Network Analysis.
+Namhoon Ki is an Assistant Professor in the Department of Political Science at the University of Miami. His research interests include Local Government, Inter-governmental Collaboration, Public Management, Fiscal Decentralization, and Network Analysis.
