@@ -1,6 +1,6 @@
 ---
 authors:
-- Naon Min, Namhoon Ki & Taewon Yoon
+- Naon Min, Namhoon Ki, and Taewon Yoon
 
 doi: ""
 weight: 6
