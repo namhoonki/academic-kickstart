@@ -1,6 +1,8 @@
 ---
 authors:
-- Naon Min, Namhoon Ki & Taewon Yoon
+- Naon Min
+- admin
+- Taewon Yoon
 weight: 5
 publication: _International Review of Public Administration_
 publication_short: "(accepted at _International Review of Public Administration_)"
