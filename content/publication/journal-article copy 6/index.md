@@ -1,17 +1,13 @@
 ---
 authors:
 - Naon Min
-- Namhoon Ki
-- Taewon Yoon
 
-doi: ""
 weight: 6
 projects: []
 publication: _International Review of Public Administration_
 publication_short: "(Accepted at _International Review of Public Administration_)"
 publishDate: "2020-01-01T00:00:00Z"
 title: Public Service Motivation, Job Satisfaction, and the Moderating Effect of Employment Sector: A Meta-Analysis
-
 abstract: Public service motivation (PSM) literature suggests that PSM has a positive effect on employees’ job satisfaction. Using meta-analysis, this study examines the aggregate effect of PSM on job satisfaction. In addition, this study investigates whether sector affiliation moderates the relationship between PSM and employee job satisfaction. Based on reported correlations between PSM and job satisfaction from 46 studies, this study finds compelling evidence for a positive relationship between PSM and job satisfaction. Furthermore, a subsequent analysis reveals that this relationship is stronger for individuals who work in the government sector.
 
 # featured: false
