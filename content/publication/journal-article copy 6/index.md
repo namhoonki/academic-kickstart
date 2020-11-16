@@ -1,10 +1,7 @@
 ---
 authors:
 - Naon Min, Namhoon Ki & Taewon Yoon
-
-doi: 
 weight: 5
-projects: []
 publication: _International Review of Public Administration_
 publication_short: "(accepted at _International Review of Public Administration_)"
 publishDate: "2020-01-01T00:00:00Z"
