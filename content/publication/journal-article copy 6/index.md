@@ -2,8 +2,8 @@
 authors:
 - Naon Min, Namhoon Ki & Taewon Yoon
 
-doi: "http://dx.doi.org/10.1111/ropr.12398"
-weight: 6
+doi: ""
+weight: 7
 projects: []
 publication: _International Review of Public Administration_
 publication_short: "(forthcoming at _International Review of Public Administration_)"
