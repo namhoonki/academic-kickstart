@@ -2,5 +2,5 @@
 header:
   caption: ""
 title: Publications
-view: 20
+view: 30
 ---
