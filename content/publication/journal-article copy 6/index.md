@@ -3,7 +3,7 @@ authors:
 - Naon Min, Namhoon Ki, and Taewon Yoon
 doi: "https://doi.org/10.1080/12294659.2020.1866272"
 weight: 6
-projects: []
+projects: ["2021-05-01T00:00:00Z"]
 publication: _International Review of Public Administration_
 publication_short: "(forthcoming at _International Review of Public Administration_)"
 publishDate: "2021-05-01"
