@@ -1,7 +1,6 @@
 ---
 authors:
 - Naon Min, Namhoon Ki, and Taewon Yoon
-
 doi: "https://doi.org/10.1080/12294659.2020.1866272"
 weight: 
 projects: []
