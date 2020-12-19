@@ -1,6 +1,7 @@
 ---
 authors:
 - Namhoon Ki and Jongsun Park
+weight: 10
 doi: "http://dx.doi.org/10.21888/KPAQ.2019.6.31.2.343"
 publication: _Korean Administration Quarterly, 31_(2) 343-361
 publication_short: ""
