@@ -3,7 +3,7 @@ authors:
 - Jeffrey Swanson and Namhoon Ki
 
 doi: "http://dx.doi.org/10.1111/ropr.12398"
-weight: 3
+weight: 4
 projects: []
 publication: _Review of Policy Research_
 publication_short: "(forthcoming at _Review of Policy Research_)"
