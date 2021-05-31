@@ -2,7 +2,7 @@
 authors:
 - admin
 doi:
-weight: 1
+weight:
 projects: []
 publication: _Administration & Society_
 publication_short: "(forthcoming at _Administration & Society_)"
