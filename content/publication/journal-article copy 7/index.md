@@ -1,14 +1,14 @@
 ---
 authors:
-- Naon Min, Namhoon Ki, and Taewon Yoon
-doi: "https://doi.org/10.1080/12294659.2020.1866272"
-weight: 2
+- admin
+doi:
+weight: 1
 projects: []
-publication: _International Review of Public Administration_
-publication_short: "(forthcoming at _International Review of Public Administration_)"
+publication: _Administration & Society_
+publication_short: "(forthcoming at _Administration & Society_)"
 publishDate: "2021-01-01T00:00:00Z"
-title: "Public Service Motivation, Job Satisfaction, and the Moderating Effect of Employment Sector: A Meta-Analysis"
-abstract: Public service motivation (PSM) literature suggests that PSM has a positive effect on employees’ job satisfaction. Using meta-analysis, this study examines the aggregate effect of PSM on job satisfaction. In addition, this study investigates whether sector affiliation moderates the relationship between PSM and employee job satisfaction. Based on reported correlations between PSM and job satisfaction from 46 studies, this study finds compelling evidence for a positive relationship between PSM and job satisfaction. Furthermore, a subsequent analysis reveals that this relationship is stronger for individuals who work in the government sector.
+title: "The Effectiveness of Monetary and Promotion Rewards in the Public Sector and the Moderating Effect of PSM (PSM-Reward Fit or PSM Crowding Out): A Survey Experiment"
+abstract: To what extent does public service motivation (PSM) affect how monetary rewards and promotion opportunities motivate government officials?  This study offers an answer to this question through a survey experiment conducted with a sample of city government officials in Florida. The experimental results demonstrate that both monetary and promotion reward treatments positively motivate officials with low PSM. However, as the level of PSM increases, the positive treatment effect of the monetary reward decreases and converges on zero. Conversely, the positive effect of the promotion opportunity treatment not only decreases but becomes negative, indicating that PSM crowding out is taking place.
 
 # featured: false
 # links:
