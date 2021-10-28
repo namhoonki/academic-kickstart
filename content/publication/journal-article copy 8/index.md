@@ -1,16 +1,15 @@
 ---
 authors:
-- Jeffrey Swanson and Namhoon Ki
+- Chang-Gyu Kwak, Namhoon Ki, and Suk-Joon Hwang
 
-doi: "http://dx.doi.org/10.1111/ropr.12398"
+doi: "https://doi.org/10.3390/su132111941"
 weight: 4
 projects: []
-publication: _Review of Policy Research 37_(5) 634-656
+publication: _Sustainability_
 publication_short: ""
-publishDate: "2020-01-01T00:00:00Z"
-title: When Would a Democratic Governor Increase Social Welfare Funding? The Joint Moderation of a State’s Economy and a Governor’s Budgetary Authority
-abstract: The partisanship of a policymaker is often noted as correlated with a state government’s support for social welfare. However, less attention has been paid to how a governor is able to steer the budget in a manner that reflects her political views. This study assesses how changes in the economy and the level of budgetary authority of the governor can jointly condition the effect of a governor’s partisanship on the change in social welfare spending. Using panel data for 49 US states from 1987 to 2014, we examine whether budgetary authority allows governors to respond to an economic contraction in the expected partisan manner. Using a three-way interaction model, we found that Democratic governors are more likely to increase social welfare funding when the economy contracts, particularly when she has higher budgetary authority relative to their non-Democratic counterparts. The results highlight how the state of the economy and institutional constraints jointly condition the budget process.
-
+publishDate: "2021-10-28T00:00:00Z"
+title: Selective vs. Collective Outcomes of Collaborative Governance: The Impacts of Federal Stimulus Programs on Local and Regional Governance Outcomes
+abstract: A number of studies have demonstrated that local government’s self-governing mechanisms can bring about positive collective outcomes for an entire region. However, less attention has been paid to different levels of collective outcomes (e.g., individual local governments vs. entire regions). Comparing such selective and collective outcomes in interlocal collaborations, this study attempts to explore which specific collaborative self-governing mechanisms can better work for which respective outcomes. Applying network approaches with time-series cross-sectional data, this study investigates how each local government’s network position and the network structure as a whole influence the impact of Energy Efficiency and Conservation Block Grants on job creation in terms of the regional green economy. Empirical results demonstrate the need for separating selective and collective outcomes in developing theories of regional governance. Additionally, the results provide practitioners with advice on how to manage interlocal relationships in order to maximize collective outcomes at different levels
 # featured: false
 # links:
 # - name: Custom Link
