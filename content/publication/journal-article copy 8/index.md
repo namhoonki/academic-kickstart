@@ -1,6 +1,5 @@
 ---
-authors:
-- admin
+authors: Chang-Gyu Kwak, Namhoon Ki, Suk-Joon Hwang
 doi:
 weight: 1
 projects: []
