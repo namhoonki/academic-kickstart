@@ -1,9 +1,9 @@
 ---
 authors: Chang-Gyu Kwak, Namhoon Ki, Suk-Joon Hwang
-doi:
-weight: 1
+doi: "https://doi.org/10.3390/su132111941"
+weight: 4
 projects: []
-publication: _Administration & Society_
+publication: _Sustainability 13_(21)
 publication_short: "(forthcoming at _Administration & Society_)"
 publishDate: "2021-01-01T00:00:00Z"
 title: "The Effectiveness of Monetary and Promotion Rewards in the Public Sector and the Moderating Effect of PSM (PSM-Reward Fit or PSM Crowding Out): A Survey Experiment"
