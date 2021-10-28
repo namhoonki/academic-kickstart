@@ -1,5 +1,6 @@
 ---
-authors: Chang-Gyu Kwak, Namhoon Ki, Suk-Joon Hwang
+authors: 
+- Chang-Gyu Kwak, Namhoon Ki, Suk-Joon Hwang
 doi: "https://doi.org/10.3390/su132111941"
 weight: 4
 projects: []
