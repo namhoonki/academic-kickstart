@@ -6,7 +6,7 @@ authors:
 doi: https://doi.org/10.1111/puar.13135
 weight: 
 projects: []
-publication: _Public Administration Review, 80_(1) 23-35
+publication: _American Review of Public Administration_(Accepted)
 publication_short: ""
 publishDate: "2020-01-01T00:00:00Z"
 title: Untangling the Association between Goal Clarity and Public Service Motivation with the Moderating Role of Value Congruence
