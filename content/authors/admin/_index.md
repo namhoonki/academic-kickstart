@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include local government, public management, governance, and network modeling.
+bio: My research interests include public management, state and local government, and intergovernmental relations.
   matter.
 education:
   courses:
@@ -19,7 +19,6 @@ interests:
 - Local Government
 - Public Management
 - Collaborative Governance
-- Fiscal Decentralization and Social Equality
 - Network Modeling
 
 
