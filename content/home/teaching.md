@@ -31,8 +31,11 @@ date_format = "2006"
   description = """
   Courses Taught:
   
-  * POL 510/610: Statistics for Politics and Public Administration (graduate), Fall 2020
-  * POL 522/622: Introduction to Graduate Public Administration (graduate), Fall 2020
+  * POL 319: Politics of the Administrative Process (undergraduate level), Spring 2023
+  * POL 696: (online) NGOs and Global Governance (graduate level), Spring 2022
+  * POL 610: (online) Statistics for Politics and Public Administration (graduate level), Spring 2021
+  * POL 510/610: Statistics for Politics and Public Administration (graduate & undergraduate), Fall 2020 – Present
+  * POL 522/622: Introduction to Graduate Public Administration (graduate & undergraduate), Fall 2020 – Present
 
   """
 
