@@ -4,7 +4,7 @@ authors:
 doi: https://doi.org/10.1177/00953997211025983
 weight: 2
 projects: []
-publication: _Administration & Society,52_(2) 277-310
+publication: _Administration & Society 52_(2), 277-310
 publication_short: ""
 publishDate: "2021-10-01T00:00:00Z"
 title: "The Effectiveness of Monetary and Promotion Rewards in the Public Sector and the Moderating Effect of PSM (PSM-Reward Fit or PSM Crowding Out): A Survey Experiment"
