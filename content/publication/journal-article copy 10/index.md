@@ -3,7 +3,7 @@ authors:
 - Gook Jin Kim
 - admin
 - and Taewon Yoon
-doi:
+doi: "https://doi.org/10.1177/02750740231170013"
 weight: 1
 projects: []
 publication: 
