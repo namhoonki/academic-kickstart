@@ -1,17 +1,16 @@
 ---
 authors:
-- Kim, Gook Jin
 - admin
-- and Taewon Yoon
-doi: https://doi.org/10.1111/puar.13135
-weight: 
+- Taewon Yoon
+- and Jeffrey Swanson
+doi: ""
+weight: 1
 projects: []
-publication: _Public Administration Review, 80_(1) 23-35
-publication_short: ""
-publishDate: "2020-01-01T00:00:00Z"
-title: Untangling the Association between Goal Clarity and Public Service Motivation with the Moderating Role of Value Congruence
-Boundary
-abstract: Drawing on the socialization aspect of public service motivation (PSM) and the internalization process of organizational values, this study empirically tests the argument that goal clarity leads to higher PSM, with a specific focus on the moderating role of value congruence between them. Using data from 4,133 Korean public employees in the 2021 Public Employee Perception Survey, the current study finds that individuals' perception of goal clarity generally has a positive relationship with their PSM, especially among those who have high individual-organization value congruence. We also discovered that certain matched levels of both goal clarity and value congruence are crucial for the positive relationship between clear goal perception and PSM to exist. This study concludes that the relationship between goal clarity and PSM is not straightforward, but instead follows a U-shaped pattern, characterized by a decrease followed by an increase. This implies that perceiving clearer goals may have a demotivating effect on some employees; those with relatively low levels of goal clarity and, therefore, low goal congruence (i.e., lack of internalization of clear organizational goals) would instead be demotivated as they perceive clearer goals. 
+publication: 
+publication_short: "(Accepted at _Current Psychology_)"
+publishDate: "2023-01-01T00:00:00Z"
+title: "Do Not Ask for Job Information from Your Close Friends or from Strangers: Strength of Moderate Ties in Finding a Satisfying Job"
+abstract: Drawing on Granovetter’s strength of ties concept, studies have argued that the strength of job seekers’ ties to the people through whom they obtained job information makes different job search outcomes. Recent studies suggest that having both strong and weak ties within one’s job information network will engender a synergetic effect on the job search outcomes, compared to when only having either strong or weak ties within the network. Extending this argument, we demonstrate that individuals’ current job satisfaction can be optimized when they primarily obtained their current job information from the person with whom they had a medium-strength tie when they initially applied for the jobs. Through an analysis of 3,451 samples from the 2016 NASP-Citizen Survey, we found that 1) employees’ current job satisfaction is maximized if they did not receive the job information from a close friend or a stranger but from a moderately-tied person and that 2) this phenomenon is more likely to be found among employees who joined organizations recently.
 
 # featured: false
 # links:
