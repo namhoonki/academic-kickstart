@@ -3,7 +3,7 @@ authors:
 - admin
 - Taewon Yoon
 - and Jeffrey Swanson
-doi: "[link.springer.com/article/10.1007/s12144-023-04850-4](https://doi.org/10.1007/s12144-023-04850-4)"
+doi: "https://link.springer.com/article/10.1007/s12144-023-04850-4"
 weight: 1
 projects: []
 publication: 
