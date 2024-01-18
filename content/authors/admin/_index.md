@@ -23,9 +23,9 @@ interests:
 
 
 organizations:
-- name: University of Miami
-  url: "https://politicalscience.as.miami.edu/"
-role: Assistant Professor<br/>Department of Political Science
+- name: Sungkyunkwan University
+  url: "[https://politicalscience.as.miami.edu/](https://gsg.skku.edu/eng_gsg/professor/fulltime.do)"
+role: Assistant Professor<br/>Department of Public Administration/Graduate School of Governance
 
 social:
 - icon: envelope
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-Namhoon Ki is an Assistant Professor in the Department of Political Science at the University of Miami. His research interests include Local Government, Inter-governmental Collaboration, Public Management, Fiscal Decentralization, and Network Analysis.
+Namhoon Ki is an Assistant Professor in the Department of Public Administration/Graduate School of Governance at Sungkyunkwan University. His research interests include Local Government, Inter-governmental Collaboration, Public Management, Fiscal Decentralization, and Network Analysis.
