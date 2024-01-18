@@ -23,11 +23,25 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Assistant Professor"
+  company = "Department of Public Administration/Graduate School of Governance, Sunkyunkwan University"
+  company_url = "[https://politicalscience.as.miami.edu/](https://gsg.skku.edu/eng_gsg/professor/fulltime.do)"
+  location = "Seoul, Korea"
+  date_start = "2024-03-01"
+  date_end = "2023-12-31"
+  description = """
+  Courses Taught:
+  
+  * TBD
+
+  """
+
+[[experience]]
+  title = "Assistant Professor"
   company = "Department of Political Science, University of Miami"
   company_url = "https://politicalscience.as.miami.edu/"
   location = "Miami, Florida"
   date_start = "2020-08-15"
-  date_end = ""
+  date_end = "2023-12-31"
   description = """
   Courses Taught:
   
