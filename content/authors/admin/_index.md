@@ -24,13 +24,13 @@ interests:
 
 organizations:
 - name: Sungkyunkwan University
-  url: "[https://gsg.skku.edu/eng_gsg/professor/fulltime.do]"
+  url: https://gsg.skku.edu/eng_gsg/professor/fulltime.do
 role: Assistant Professor<br/>Department of Public Administration/Graduate School of Governance
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:namhoonki@gmail.com"
+  link: mailto:namhoonki@gmail.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Q6m0MMYAAAAJ&hl=en&oi=sra
