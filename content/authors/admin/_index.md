@@ -24,7 +24,7 @@ interests:
 
 organizations:
 - name: Sungkyunkwan University
-  url: "[https://politicalscience.as.miami.edu/](https://gsg.skku.edu/eng_gsg/professor/fulltime.do)"
+  url: "[https://gsg.skku.edu/eng_gsg/professor/fulltime.do]"
 role: Assistant Professor<br/>Department of Public Administration/Graduate School of Governance
 
 social:
