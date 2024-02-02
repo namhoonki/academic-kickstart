@@ -27,7 +27,7 @@ date_format = "2006"
   company_url = "[https://politicalscience.as.miami.edu/](https://gsg.skku.edu/eng_gsg/professor/fulltime.do)"
   location = "Seoul, Korea"
   date_start = "2024-03-01"
-  date_end = "2023-12-31"
+  date_end = "Present"
   description = """
   Courses Taught:
   
