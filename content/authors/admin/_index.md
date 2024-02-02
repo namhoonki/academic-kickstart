@@ -30,7 +30,7 @@ role: Assistant Professor<br/>Department of Public Administration/Graduate Schoo
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:namhoonki@gmail.com"
+  link: mailto:namhoonki@gmail.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Q6m0MMYAAAAJ&hl=en&oi=sra
