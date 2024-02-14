@@ -2,7 +2,7 @@
 authors:
 - Jefferey Swanson and Namhoon Ki
 doi: "https://doi.org/10.1080/03623319.2020.1728510"
-weight: 302
+weight: 303
 projects: []
 publication: _The Social Science Journal_
 publication_short: "_The Social Science Journal 60_(2), 213–234"
