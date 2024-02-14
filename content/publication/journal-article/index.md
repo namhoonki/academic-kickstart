@@ -4,7 +4,7 @@ authors:
 - Chang-Gyu Kwak
 - and Minsun Song
 doi: https://doi.org/10.1111/puar.13135
-weight: 1
+weight: 301
 projects: []
 publication: _Public Administration Review, 80_(1) 23-35
 publication_short: ""
