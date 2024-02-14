@@ -1,7 +1,7 @@
 ---
 authors:
   - admin
-  - David Lee
+  - and David Lee
 doi: "https://doi.org/10.1111/puar.13797"
 weight: 299
 projects: []
