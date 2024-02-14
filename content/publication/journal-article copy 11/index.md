@@ -4,7 +4,7 @@ authors:
 - Taewon Yoon
 - and Jeffrey Swanson
 doi: "https://doi.org/10.1007/s12144-023-04850-4"
-weight: 1
+weight: 301
 projects: []
 publication: 
 publication_short: "(Online first at _Current Psychology_)"
