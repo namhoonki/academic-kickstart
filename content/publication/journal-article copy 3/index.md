@@ -4,7 +4,7 @@ authors:
 - Kyujin Jung
 - admin
 - and Richard C. Feiock
-weight: 5
+weight: 305
 doi: "https://doi.org/10.1177/1043463120902279"
 publication: _Rationality and Society 32_(1) 67-92
 publication_short: ""
