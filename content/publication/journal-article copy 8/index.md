@@ -2,7 +2,7 @@
 authors: 
 - Chang-Gyu Kwak, Namhoon Ki, Suk-Joon Hwang
 doi: "https://doi.org/10.3390/su132111941"
-weight: 4
+weight: 304
 projects: []
 publication: _Sustainability 13_(21)
 publication_short: ""
