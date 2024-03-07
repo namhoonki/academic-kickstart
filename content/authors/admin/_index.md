@@ -24,7 +24,7 @@ interests:
 
 organizations:
 - name: Sungkyunkwan University
-  url: https://gsg.skku.edu/eng_gsg/professor/fulltime.do
+  url: https://gsg.skku.edu/eng_gsg/professor/fulltime.do?mode=view&perId=LZStrPYIQjgJgkgbsBKBpA6gYQLIHYCmAZAHgNYDMxA4gK4CKAvDUA%20&
 role: Assistant Professor<br/>Department of Public Administration/Graduate School of Governance
 
 social:
