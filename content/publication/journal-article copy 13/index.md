@@ -7,10 +7,15 @@ authors:
 - Na Yeon Kim
   
 doi: "https://doi.org/10.1080/12294659.2024.2322188"
+
 weight: 298
+
 projects: []
+
 publication:
+
 publication_short: "(Online first _International Review of Public Administration (Online first)_)"
+
 publishDate: "2024-04-01T00:00:00Z"
 
 title: "Republican governor, unified government, and the U.S. states’ death penalty executions"
