@@ -1,16 +1,15 @@
 ---
 authors:
+- Gook Jin Kim
 - admin
-- David Lee
-doi: https://doi.org/10.1111/puar.13797
+- Na Yeon Kim
+doi: https://doi.org/10.1080/12294659.2024.2322188
 weight: 
 projects: []
-publication: _Public Administration Review (Online first)_
+publication: _International Review of Public Administration (Online first)_
 publication_short: ""
-publishDate: "2024-01-14 T00:00:00Z"
-title: Benefit and hidden cost of organizational support for telework amid the COVID-19 pandemic on public employees’ job satisfaction and retention intention
-Boundary
-abstract: This study examines the impact of crisis-induced telework during the COVID-19 pandemic 2020 on public sector employees’ job satisfaction (JS) and retention intention (RI). Analyses of the 2020 Federal Employee Viewpoint Survey data reveal a negative association between the amount of COVID-induced telework and the federal employees’ JS and RI. However, this negative effect is mitigated by offering adequate organizational telework support for mandatory telework during the COVID peak and subsequently decreasing the amount of telework after the peak. Nevertheless, the findings also indicate that solid organizational support for teleworkers during the pandemic’s peak can ironically discourage them from returning to the regular work setting even when it is safe, potentially compromising organizational performance—a hidden cost of the organizational support. Still, this hidden cost does not appear to be significant enough to warrant revisions in the level of crisis-specific organizational support.
-
+publishDate: "2024-04-01 T00:00:00Z"
+title: Republican governor, unified government, and the U.S. states’ death penalty executions
+abstract:Currently, 24 states in the U.S. still permit the death penalty, along with three states temporarily suspending it. Nevertheless, there exists substantial variation in the extent to which each state actually carries out the executions. While studies have explored factors influencing this variation, little attention has been paid to the political role of state governors’ and legislatures’ support in the different tendencies toward death penalty executions across states. To fill this gap, we empirically tested how governors’ party affiliation and unified political support from the legislature affect death penalty executions in the U.S. We demonstrated that states with a Republican governor are more likely to execute the death penalty. Additionally, we found that this tendency is significantly stronger when both chambers of the state legislature are dominated by Republicans (i.e. Republican-unified government), which is consistent with the theoretical expectation of unified government discourse in the policy making and implementation contexts.
 
 ---
