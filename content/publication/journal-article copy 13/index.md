@@ -1,15 +1,15 @@
 ---
 authors:
-  - admin
-  - and David Lee
-doi: "https://doi.org/10.1111/puar.13797"
+  - Song
+  - Hwang
+  - and admin
+doi: "https://doi.org/10.1002/pad.2048"
 weight: 299
 projects: []
 publication:
-publication_short: "(Online first _Public Administration Review_)"
-publishDate: "2024-02-01T00:00:00Z"
+publication_short: "(Online first _Public Administration and Development_)"
+publishDate: "2024-04-01T00:00:00Z"
 
-title: "Benefit and hidden cost of organizational support for telework amid the COVID-19 pandemic on public employees’ job satisfaction and retention intention Boundary"
-abstract: This study examines the impact of crisis-induced telework during the COVID-19 pandemic 2020 on public sector employees’ job satisfaction (JS) and retention intention (RI). Analyses of the 2020 Federal Employee Viewpoint Survey data reveal a negative association between the amount of COVID-induced telework and the federal employees’ JS and RI. However, this negative effect is mitigated by offering adequate organizational telework support for mandatory telework during the COVID peak and subsequently decreasing the amount of telework after the peak. Nevertheless, the findings also indicate that solid organizational support for teleworkers during the pandemic’s peak can ironically discourage them from returning to the regular work setting even when it is safe, potentially compromising organizational performance—a hidden cost of the organizational support. Still, this hidden cost does not appear to be significant enough to warrant revisions in the level of crisis-specific organizational support.
+title: "Interorganizational collaboration is a means, through which governments to effectively respond to disasters. However, the extent to which collaboration risks embedded in interorganizational relationships shape such collaborative arrangements largely remains unanswered. This study examined the impact of collaboration risks as perceived by organizational representatives with regard to emergency management (EM). To this end, we conducted an EM survey in Seoul in 2015 and analyzed the data using a quadratic assignment procedure logistic regression. The dyadic network analytic results demonstrated that the aggregate risks as perceived by paired organizations are negatively associated with the establishment of collaboration ties. In contrast, a significant disparity in the perceived risk levels between paired organizations promotes collaborative network arrangements; when one party perceives substantially lower collaboration risks relative to the other, it can create a favorable condition for both parties to initiate interorganizational collaboration.
 
 ---
