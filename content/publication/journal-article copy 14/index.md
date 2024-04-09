@@ -1,16 +1,16 @@
 ---
 authors:
-  - Song
-  - Hwang
-  - and admin
-doi: "https://doi.org/10.1002/pad.2048"
-weight: 297
+  - Kim
+  - admin
+  - and Kim
+doi: "https://doi.org/10.1080/12294659.2024.2322188"
+weight: 298
 projects: []
 publication:
-publication_short: "(Online first _Public Administration and Development_)"
+publication_short: "(Online first _International Review of Public Administration_)"
 publishDate: "2024-04-01T00:00:00Z"
 
-title: "How perceived risks in interorganizational collaboration shape disaster response strategies"
-abstract: Interorganizational collaboration is a means, through which governments to effectively respond to disasters. However, the extent to which collaboration risks embedded in interorganizational relationships shape such collaborative arrangements largely remains unanswered. This study examined the impact of collaboration risks as perceived by organizational representatives with regard to emergency management (EM). To this end, we conducted an EM survey in Seoul in 2015 and analyzed the data using a quadratic assignment procedure logistic regression. The dyadic network analytic results demonstrated that the aggregate risks as perceived by paired organizations are negatively associated with the establishment of collaboration ties. In contrast, a significant disparity in the perceived risk levels between paired organizations promotes collaborative network arrangements; when one party perceives substantially lower collaboration risks relative to the other, it can create a favorable condition for both parties to initiate interorganizational collaboration.
+title: "Republican Governor, Unified Government and the U.S. States’ Death Penalty Executions"
+abstract: Currently, 24 states in the U.S. still permit the death penalty, along with three states temporarily suspending it. Nevertheless, there exists substantial variation in the extent to which each state actually carries out the executions. While studies have explored factors influencing this variation, little attention has been paid to the political role of state governors’ and legislatures’ support in the different tendencies toward death penalty executions across states. To fill this gap, we empirically tested how governors’ party affiliation and unified political support from the legislature affect death penalty executions in the U.S. We demonstrated that states with a Republican governor are more likely to execute the death penalty. Additionally, we found that this tendency is significantly stronger when both chambers of the state legislature are dominated by Republicans (i.e. Republican-unified government), which is consistent with the theoretical expectation of unified government discourse in the policy making and implementation contexts..
 
 ---
