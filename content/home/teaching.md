@@ -31,7 +31,8 @@ date_format = "2006"
   description = """
   Courses Taught:
   
-  * TBD
+  * POL 319: Principles of Statistical Analysis (undergraduate level-Taught in English), Spring 2024
+  * KF e-School: International Administration and Global Governance, Spring 2024 (Co-teaching with Prof. Ida at Padjadjaran University in Indonesia)
 
   """
 
