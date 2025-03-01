@@ -25,7 +25,7 @@ interests:
 organizations:
 - name: Sungkyunkwan University
   url: https://gsg.skku.edu/eng_gsg/professor/fulltime.do?mode=view&perId=LZStrPYIQjgJgkgbsBKBpA6gYQLIHYCmAZAHgNYDMxA4gK4CKAvDUA%20&
-role: Assistant Professor<br/>Department of Public Administration/Graduate School of Governance
+role: Associate Professor<br/>Department of Public Administration/Graduate School of Governance
 
 social:
 - icon: envelope
@@ -51,4 +51,4 @@ user_groups:
 - Visitors
 ---
 
-Namhoon Ki is an Assistant Professor in the Department of Public Administration/Graduate School of Governance at Sungkyunkwan University. His research interests include Local Government, Inter-governmental Collaboration, Public Management, Fiscal Decentralization, and Network Analysis.
+Namhoon Ki is an Associate Professor in the Department of Public Administration/Graduate School of Governance at Sungkyunkwan University. His research interests include Local Government, Inter-governmental Collaboration, Public Management, Decentralization, and Network Analysis.
