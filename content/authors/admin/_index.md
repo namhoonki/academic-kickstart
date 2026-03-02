@@ -24,7 +24,7 @@ interests:
 
 organizations:
 - name: Korea University
-  url: https://gsg.skku.edu/eng_gsg/professor/fulltime.do?mode=view&perId=LZStrPYIQjgJgkgbsBKBpA6gYQLIHYCmAZAHgNYDMxA4gK4CKAvDUA%20&
+  url: https://kupa.korea.ac.kr/ko/professor/fulltime.do
 role: Associate Professor<br/>Department of Public Administration
 
 social:
