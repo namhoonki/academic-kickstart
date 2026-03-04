@@ -24,7 +24,7 @@ interests:
 
 organizations:
 - name: Korea University
-  url: https://kupa.korea.ac.kr/ko/professor/fulltime.do
+  url: https://kupa.korea.ac.kr/ko/professor/fulltime.do?mode=view&articleNo=802013&article.offset=0&articleLimit=200
 role: Associate Professor<br/>Department of Public Administration
 
 social:
