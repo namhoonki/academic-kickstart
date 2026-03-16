@@ -51,4 +51,4 @@ user_groups:
 - Visitors
 ---
 
-Namhoon Ki is an Associate Professor in the Department of Public Administration/Graduate School of Governance at Sungkyunkwan University. His research interests include Local Government, Inter-governmental Collaboration, Public Management, Decentralization, and Network Analysis.
+Namhoon Ki is an Associate Professor in the Department of Public Administration at Korea University. His research interests include Local Government, Inter-governmental Collaboration, Public Management, Decentralization, and Network Analysis.
