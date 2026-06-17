@@ -2,52 +2,52 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/teaching`.
 
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+widget = "experience" # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true # This file represents a page section.
+active = true # Activate this widget? true/false
+weight = 40 # Order that this section will appear.
 
 title = "Courses Taught"
 subtitle = ""
 
-
-
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+# Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "2006"
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+# Add/remove as many `[[experience]]` blocks below as you like.
+# Required fields are `title`, `company`, and `date_start`.
+# Leave `date_end` empty if it's your current employer.
+# Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Associate Professor"
-    company = "Department of Public Administration, Korea University"
-      company_url = "https://policy.korea.ac.kr"
-        location = "Seoul, Korea"
-          date_start = "2026-03-01"
-            date_end = ""
-              description = """
-              Courses Taught:
-              
-              * Local Autonomy and Local Administration (graduate & undergraduate)
-              
-              """
-              
-              [[experience]]
+  company = "Department of Public Administration, Korea University"
+  company_url = "https://policy.korea.ac.kr"
+  location = "Seoul, Korea"
+  date_start = "2026-03-01"
+  date_end = ""
+  description = """
+Courses Taught:
+
+* Local Autonomy and Local Administration (graduate & undergraduate level)
+* Network Analysis & Evaluation (graduate level)
+ 
+"""
+
+[[experience]]
   title = "Assistant Professor"
-  company = "Department of Public Administration/Graduate School of Governance, Sunkyunkwan University"
-  company_url = "[https://politicalscience.as.miami.edu/](https://gsg.skku.edu/eng_gsg/professor/fulltime.do)"
+  company = "Department of Public Administration/Graduate School of Governance, Sungkyunkwan University"
+  company_url = "https://gsg.skku.edu/eng_gsg/professor/fulltime.do"
   location = "Seoul, Korea"
   date_start = "2024-03-01"
-  date_end = "2026-02-28""
+  date_end = "2026-02-28"
   description = """
-  
-  * POL 319: Principles of Statistical Analysis (undergraduate level-Taught in English), Spring 2024
-  * KF e-School: International Administration and Global Governance, Spring 2024 (Co-teaching with Prof. Ida at Padjadjaran University in Indonesia)
+Courses Taught:
 
-  """
+* POL 319: Principles of Statistical Analysis (undergraduate level-Taught in English), Spring 2024
+* KF e-School: International Administration and Global Governance, Spring 2024 (Co-teaching with Prof. Ida at Padjadjaran University in Indonesia)
+
+"""
 
 [[experience]]
   title = "Assistant Professor"
@@ -57,15 +57,15 @@ date_format = "2006"
   date_start = "2020-08-15"
   date_end = "2023-12-31"
   description = """
-  Courses Taught:
-  
-  * POL 319: Politics of the Administrative Process (undergraduate level), Spring 2023
-  * POL 696: (online) NGOs and Global Governance (graduate level), Spring 2022
-  * POL 610: (online) Statistics for Politics and Public Administration (graduate level), Spring 2021
-  * POL 510/610: Statistics for Politics and Public Administration (graduate & undergraduate), Fall 2020 – Present
-  * POL 522/622: Introduction to Graduate Public Administration (graduate & undergraduate), Fall 2020 – Present
+Courses Taught:
 
-  """
+* POL 319: Politics of the Administrative Process (undergraduate level), Spring 2023
+* POL 696: (online) NGOs and Global Governance (graduate level), Spring 2022
+* POL 610: (online) Statistics for Politics and Public Administration (graduate level), Spring 2021
+* POL 510/610: Statistics for Politics and Public Administration (graduate & undergraduate), Fall 2020 – Present
+* POL 522/622: Introduction to Graduate Public Administration (graduate & undergraduate), Fall 2020 – Present
+
+"""
 
 [[experience]]
   title = "Postdoc/Ph.D. Candidate"
@@ -75,13 +75,12 @@ date_format = "2006"
   date_start = "2017-09-01"
   date_end = "2020-01-29"
   description = """
-  
- Courses Taught:
-  
-  * PAD 6109: Institution and Society (graduate), Spring 2020
-  * PAD 5935: Governing Sustainable Communities (graduate), Fall 2019 (Co-Teaching)
-  * PAD 3003: Public Administration in American Society (undergraduate), Fall 2017 & Spring 2018
-"""
 
+Courses Taught:
+
+* PAD 6109: Institution and Society (graduate), Spring 2020
+* PAD 5935: Governing Sustainable Communities (graduate), Fall 2019 (Co-Teaching)
+* PAD 3003: Public Administration in American Society (undergraduate), Fall 2017 & Spring 2018
+"""
 
 +++
