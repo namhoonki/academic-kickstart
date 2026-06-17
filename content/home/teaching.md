@@ -25,13 +25,13 @@ date_format = "2006"
   title = "Associate Professor"
     company = "Department of Public Administration, Korea University"
       company_url = "https://policy.korea.ac.kr"
-        location = "Seoul, Korea
+        location = "Seoul, Korea"
           date_start = "2026-03-01"
             date_end = ""
               description = """
               Courses Taught:
               
-              * Local Autonomy and Local Administration (graduate & undergraduate level)
+              * Local Autonomy and Local Administration (graduate & undergraduate)
               
               """
               
@@ -41,7 +41,7 @@ date_format = "2006"
   company_url = "[https://politicalscience.as.miami.edu/](https://gsg.skku.edu/eng_gsg/professor/fulltime.do)"
   location = "Seoul, Korea"
   date_start = "2024-03-01"
-  date_end = "2026-02-28"
+  date_end = "2026-02-28""
   description = """
   
   * POL 319: Principles of Statistical Analysis (undergraduate level-Taught in English), Spring 2024
