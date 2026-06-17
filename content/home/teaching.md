@@ -22,14 +22,27 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Associate Professor"
+    company = "Department of Public Administration, Korea University"
+      company_url = "https://policy.korea.ac.kr"
+        location = "Seoul, Korea
+          date_start = "2026-03-01"
+            date_end = ""
+              description = """
+              Courses Taught:
+              
+              * Local Autonomy and Local Administration (graduate & undergraduate level)
+              
+              """
+              
+              [[experience]]
   title = "Assistant Professor"
   company = "Department of Public Administration/Graduate School of Governance, Sunkyunkwan University"
   company_url = "[https://politicalscience.as.miami.edu/](https://gsg.skku.edu/eng_gsg/professor/fulltime.do)"
   location = "Seoul, Korea"
   date_start = "2024-03-01"
-  date_end = ""
+  date_end = "2026-02-28"
   description = """
-  Courses Taught:
   
   * POL 319: Principles of Statistical Analysis (undergraduate level-Taught in English), Spring 2024
   * KF e-School: International Administration and Global Governance, Spring 2024 (Co-teaching with Prof. Ida at Padjadjaran University in Indonesia)
